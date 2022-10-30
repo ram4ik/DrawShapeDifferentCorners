@@ -11,6 +11,7 @@
 		1DBED07D290F0C44002DB1E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBED07C290F0C44002DB1E7 /* ContentView.swift */; };
 		1DBED07F290F0C48002DB1E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DBED07E290F0C48002DB1E7 /* Assets.xcassets */; };
 		1DBED082290F0C48002DB1E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DBED081290F0C48002DB1E7 /* Preview Assets.xcassets */; };
+		1DBED089290F0C72002DB1E7 /* Extension+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBED088290F0C72002DB1E7 /* Extension+CornerRadius.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1DBED07C290F0C44002DB1E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1DBED07E290F0C48002DB1E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DBED081290F0C48002DB1E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1DBED088290F0C72002DB1E7 /* Extension+CornerRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+CornerRadius.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1DBED07A290F0C44002DB1E7 /* DrawShapeDifferentCornersApp.swift */,
 				1DBED07C290F0C44002DB1E7 /* ContentView.swift */,
+				1DBED088290F0C72002DB1E7 /* Extension+CornerRadius.swift */,
 				1DBED07E290F0C48002DB1E7 /* Assets.xcassets */,
 				1DBED080290F0C48002DB1E7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DBED089290F0C72002DB1E7 /* Extension+CornerRadius.swift in Sources */,
 				1DBED07D290F0C44002DB1E7 /* ContentView.swift in Sources */,
 				1DBED07B290F0C44002DB1E7 /* DrawShapeDifferentCornersApp.swift in Sources */,
 			);
